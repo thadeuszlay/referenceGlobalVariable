@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReferenceGlobalVariable</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">0</string>
+    <string name="title_activity_next">NextActivity</string>
+<string name="buttonAdd">Add</string>
+<string name="buttonDelete">Delete</string>
+<string name="buttonNext">Next</string>
+</resources>
